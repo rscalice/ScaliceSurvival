@@ -1,3 +1,3 @@
-{
-	"CommonAssetsVersion": "3.1.0"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff60acdac06ef2aa0c91a5226099246686f62912048ba95b658fb62d2627a02e
+size 37
